@@ -4,6 +4,7 @@
 
 > Repositório dos videos/tutoriais de html-css do youtube.
 
+
 ### Videos Prontos
 
 Acompanhe o que ja foi lançado:
@@ -12,6 +13,7 @@ Acompanhe o que ja foi lançado:
 - [ ] Video 2 - -
 - [ ] Video 3 - -
 
+
 ## 💻 Pré-requisitos
 
 Antes de começar, verifique se você atendeu aos seguintes requisitos:
@@ -19,14 +21,12 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 * Você ter conhecimento básico sobre programação.
 * Você instalou a versão mais recente de VSCode ou IDE de escolha.
 
+
 ## 🚀 Plugins Utilizados
 
 * Live Server
 * Prettier
 * HTML CSS Sup
-
-César - https://github.com/cesareds
-João V. - https://github.com/JoaoVargas
 
 
 ## 🤝 Colaboradores
@@ -53,6 +53,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
     </td>
   </tr>
 </table>
+
 
 ## 📝 Licença
 
