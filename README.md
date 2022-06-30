@@ -1,6 +1,6 @@
 # Videoaulas Html-Css
 
-<img src="exemplo-image.png" alt="exemplo imagem">
+<!--- <img src="exemplo-image.png" alt="exemplo imagem"> --->
 
 > Repositório dos videos/tutoriais de html-css do youtube.
 
